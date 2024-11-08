@@ -1,3 +1,4 @@
+// paste the code below into your console!!!
 (async () => {
     var packets = []
     var pages = 500
